@@ -1,0 +1,19 @@
+{
+  "name": "@sole/kindle-clippings-beautify",
+  "version": "1.0.0",
+  "description": "Convert a kindle clippings file into something beautiful",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "kindle",
+    "formatting"
+  ],
+  "author": "sole",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "@sole/kindle-clippings-html-formatter": "^1.0.0",
+    "@sole/kindle-clippings-parser": "^1.1.0"
+  }
+}
