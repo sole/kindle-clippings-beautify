@@ -15,5 +15,14 @@
   "dependencies": {
     "@sole/kindle-clippings-html-formatter": "^1.0.0",
     "@sole/kindle-clippings-parser": "^1.1.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sole/kindle-clippings-beautify.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sole/kindle-clippings-beautify/issues"
+  },
+  "homepage": "https://github.com/sole/kindle-clippings-beautify#readme"
 }
